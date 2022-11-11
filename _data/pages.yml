@@ -3,5 +3,3 @@ pages:
   - {name: 'research', url: 'research.html'}
   - {name: 'vitae', url: 'vitae.html'}
   - {name: 'outreach', url: 'about.html'}
-  - {name: 'Contact', url: 'contact.html'}
-  - {name: 'Archive', url: 'archive.html'}
