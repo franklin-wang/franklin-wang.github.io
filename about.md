@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: about
 ---
 
 # [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
