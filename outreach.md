@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: outreach
 ---
 
 # [OUTREACH OUTREACH REACH OUT](https://yamt.netlify.app/)
