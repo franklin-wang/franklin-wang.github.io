@@ -2,4 +2,4 @@ pages:
   - {name: 'about', url: 'about.html'}
   - {name: 'research', url: 'research.html'}
   - {name: 'vitae', url: 'vitae.html'}
-  - {name: 'outreach', url: 'about.html'}
+  - {name: 'outreach', url: 'outreach.html'}
