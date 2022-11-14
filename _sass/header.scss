@@ -10,6 +10,7 @@ $messenger: #0084ff;
 $youtube: #ff0000;
 $whatsapp: #25d366;
 $reddit: #ff4500;
+$orcid: #A6CE39;
 
 header{
     margin-left: auto;
@@ -92,8 +93,8 @@ header{
                 #youtube:hover{
                     color: $youtube;
                 }
-                #whatsapp:hover{
-                    color: $whatsapp;
+                #orcid:hover{
+                    color: $orcid;
                 }
                 #reddit:hover{
                     color: $reddit;
