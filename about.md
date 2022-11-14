@@ -3,5 +3,5 @@ layout: default
 title: about
 ---
 
-# [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
+# bio
 See [Github](https://github.com/PandaSekh/Jekyll-YAMT).
