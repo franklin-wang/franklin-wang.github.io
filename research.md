@@ -21,7 +21,7 @@ A vast majority of (if not all!) galaxies are thought to harbor a supermassive b
 
 ![kinem](/assets/img/pgc12557_moment_4_full_kinem_map.png)
 
-As such, I am working with the **Gemini Large and Long Program (LLP)** to address this bias. Specifically, I am extracting kinematics (that will be used for dynamical mass modelling) from galaxies that have sizes and luminosities that are not well represented in the current sample. I will be focusing on large scale integral field spectra from the **VIRUS-P** and **VIRUS-W** spectrographs on the **2.7m Harlan J. Smith telescope** at McDonald Observatory: these large scale spectra are effective in constraining the dark matter halos around our target galaxies.
+As such, I am working with the **Gemini Large and Long Program (LLP)** to address this bias. This program targets galaxies with sizes and luminosities that are not well represented in the current sample with integral field spectrographs (IFS or IFU) from Gemini NIFS and multiple instruments at the McDonald Observatory. In particular, I will be extracting stellar kinematics (that will be used in dynamical mass modelling) from data obtained by the **VIRUS-P** and **VIRUS-W** spectrographs on the 2.7m Harlan J. Smith telescope. These IFUs capture our target galaxies on larger scales, allowing us to better constrain the dark matter halos surrounding the galaxies.  
 
 # undergraduate research
 
