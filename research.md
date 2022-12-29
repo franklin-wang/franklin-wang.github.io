@@ -30,11 +30,13 @@ As such, I am working with the **Gemini Large and Long Program (LLP)** to addres
 
 ![mtau](/assets/img/mtau.png)
 
+<img src="/assets/img/mtau.png" alt="mtaurel" style="width:500px;height:500px;">
+
 Intermediate mass black holes (IMBHs) are thought to be the 'seeds' of supermassive black holes (like the ones I'm currently studying at Texas A&M!), but they have been extremely challenging to find. State-of-the-art astronomical surveys have finally started to discover some candidates, but we still lack an efficient and robust method to estimate their masses down to the lowest mass scales possible. 
 
 ![liu100](/assets/img/liu100.png)
 
-The Galaxy and Black Hole Astrophysics Group at Illinois have been developing a new black hole mass weighing method which makes use of an active galactic nuclei's (AGN) optical variability timescale. 
+The Galaxy and Black Hole Astrophysics Group at Illinois have been developing a new black hole mass weighing method which makes use of an active galactic nuclei's (AGN) optical variability timescale. In summary, the timescale on which the AGN's accretion disk 'flickers' is correlated with the mass of the black hole. 
 
 Intermediate Mass Black Holes (IMBHs) are thought to be the 'seeds' of supermassive black holes such as the one
 							found at the center of our own Milky Way galaxy, but they have been extremely challenging to find. State-of-the-art
