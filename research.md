@@ -30,7 +30,7 @@ As such, I am working with the **Gemini Large and Long Program (LLP)** to addres
 
 blah blah blah
 
-### + 
+### + Eccentricity in time-domain gravitational waves
+*Institution*: The Chinese University of Hong Kong | *Advisors*: Prof. [Tjonnie Li](http://www.phy.cuhk.edu.hk/~tgfli/), Alvin Li, Alan Lam
 
-
-I am currently working with Prof. Jonelle Walsh at Texas A&M. I have previously worked with Prof. Xin Liu at the University of Illinois and Prof. Tjonnie Li at the Chinese University of Hong Kong.
+blah blah blah
