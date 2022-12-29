@@ -15,6 +15,7 @@ I'm currently advised by Professor Jonelle Walsh at Texas A&M. My research focus
 ### Stellar dynamical modeling of supermassive black holes
 *Institution*: Texas A&M University | *Advisor*: Prof. [Jonelle Walsh](https://jonellewalsh.weebly.com/)
 
+[!kinem_map](/assets/img/pgc12557_moment_4_full_kinem_map.png)
 blah blah blah
 
 # undergraduate research
