@@ -4,7 +4,7 @@ title: Research
 ---
 
 # research
-I'm currently working with Professor Jonelle Walsh at Texas A&M. 
+I'm currently working with Professor [Jonelle Walsh](https://jonellewalsh.weebly.com/) at Texas A&M. 
 
 #### undergraduate research
 
