@@ -34,6 +34,8 @@ Intermediate mass black holes (IMBHs) are thought to be the 'seeds' of supermass
 
 ![liu100](/assets/img/liu100.png)
 
+The Galaxy and Black Hole Astrophysics Group at Illinois have been developing a new black hole mass weighing method which makes use of an active galactic nuclei's (AGN) optical variability timescale. 
+
 Intermediate Mass Black Holes (IMBHs) are thought to be the 'seeds' of supermassive black holes such as the one
 							found at the center of our own Milky Way galaxy, but they have been extremely challenging to find. State-of-the-art
 							astronomical surveys have finally started to discover some candidates, but we still lack an efficient and robust method
