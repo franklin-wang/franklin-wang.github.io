@@ -17,7 +17,7 @@ I'm currently advised by Professor Jonelle Walsh at Texas A&M. My research focus
 
 ![kinem](/assets/img/pgc12557_moment_4_full_kinem_map.png)
 
-A vast majority of (if not all!) galaxies are thought to harbor a supermassive black hole (SMBH) at their centers. These SMBHs are believed to strongly influence the intrinsic nature of their hosts
+A vast majority of (if not all!) galaxies are thought to harbor a supermassive black hole (SMBH) in a bulge at their centers. These SMBHs are believed to strongly influence the intrinsic nature of their hosts: observations have shown that the velocity dispersion, luminosity, and stellar mass of the galactic bulge are tightly correlated with the mass of the SMBH. 
 
 https://www.annualreviews.org/doi/10.1146/annurev-astro-082708-101811
 
