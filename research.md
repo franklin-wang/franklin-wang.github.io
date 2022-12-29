@@ -26,11 +26,13 @@ As such, I am working with the **Gemini Large and Long Program (LLP)** to addres
 # undergraduate research
 
 ### + Optical variability of broad-line dwarf AGNs
-*Institution*: University of Illinois at Urbana-Champaign 
+*Institution*: University of Illinois at Urbana-Champaign | *Advisor*: Prof. [Xin Liu](https://publish.illinois.edu/liu-group/)
 
-*Advisors*: Prof. [Xin Liu](https://publish.illinois.edu/liu-group/), Colin Burke
+![mtau](/assets/img/mtau.png)
 
 Intermediate mass black holes (IMBHs) are thought to be the 'seeds' of supermassive black holes (like the ones I'm currently studying at Texas A&M!), but they have been extremely challenging to find. State-of-the-art astronomical surveys have finally started to discover some candidates, but we still lack an efficient and robust method to estimate their masses down to the lowest mass scales possible. 
+
+![liu100](/assets/img/liu100.png)
 
 Intermediate Mass Black Holes (IMBHs) are thought to be the 'seeds' of supermassive black holes such as the one
 							found at the center of our own Milky Way galaxy, but they have been extremely challenging to find. State-of-the-art
@@ -40,6 +42,6 @@ Intermediate Mass Black Holes (IMBHs) are thought to be the 'seeds' of supermass
 							with a significant sample of known candidates of IMBHs.
 
 ### + Eccentricity in time-domain gravitational waves
-*Institution*: The Chinese University of Hong Kong | *Advisors*: Prof. [Tjonnie Li](http://www.phy.cuhk.edu.hk/~tgfli/), Alvin Li, Alan Lam
+*Institution*: The Chinese University of Hong Kong | *Advisor*: Prof. [Tjonnie Li](http://www.phy.cuhk.edu.hk/~tgfli/)
 
 blah blah blah
