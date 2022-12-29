@@ -6,9 +6,9 @@ title: Research
 # research
 I'm currently working with Professor Jonelle Walsh at Texas A&M. 
 
-### undergraduate research
+#### undergraduate research
 
-### links
+#### links
 * [ORCID](https://orcid.org/0000-0001-9975-9196) 
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=_MfhceYAAAAJ) 
 
