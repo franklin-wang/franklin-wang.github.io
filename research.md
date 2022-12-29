@@ -28,9 +28,7 @@ As such, I am working with the **Gemini Large and Long Program (LLP)** to addres
 ### + Optical variability of broad-line dwarf AGNs
 *Institution*: University of Illinois at Urbana-Champaign | *Advisor*: Prof. [Xin Liu](https://publish.illinois.edu/liu-group/)
 
-![mtau](/assets/img/mtau.png)
-
-<img src="/assets/img/mtau.png" alt="mtaurel" style="width:500px;height:500px;">
+<img src="/assets/img/mtau.png" alt="mtaurel" style="width:300px;height:250px;">
 
 Intermediate mass black holes (IMBHs) are thought to be the 'seeds' of supermassive black holes (like the ones I'm currently studying at Texas A&M!), but they have been extremely challenging to find. State-of-the-art astronomical surveys have finally started to discover some candidates, but we still lack an efficient and robust method to estimate their masses down to the lowest mass scales possible. 
 
