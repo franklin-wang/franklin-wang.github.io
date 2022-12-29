@@ -28,7 +28,9 @@ As such, I am working with the **Gemini Large and Long Program (LLP)** to addres
 ### + Optical variability of broad-line dwarf AGNs
 *Institution*: University of Illinois at Urbana-Champaign | *Advisors*: Prof. [Xin Liu](https://publish.illinois.edu/liu-group/), Colin Burke
 
+blah blah blah
 
+### + 
 
 
 I am currently working with Prof. Jonelle Walsh at Texas A&M. I have previously worked with Prof. Xin Liu at the University of Illinois and Prof. Tjonnie Li at the Chinese University of Hong Kong.
