@@ -1,5 +1,5 @@
 pages:
   - {name: 'research', url: 'research.html'}
-  - {name: 'personal', url: 'about.html'}
   - {name: 'c.v.', url: 'vitae.html'}
   - {name: 'outreach', url: 'outreach.html'}
+  - {name: 'personal', url: 'about.html'}
