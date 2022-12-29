@@ -28,13 +28,15 @@ As such, I am working with the **Gemini Large and Long Program (LLP)** to addres
 ### + Optical variability of broad-line dwarf AGNs
 *Institution*: University of Illinois at Urbana-Champaign | *Advisor*: Prof. [Xin Liu](https://publish.illinois.edu/liu-group/)
 
-<img src="/assets/img/mtau.png" alt="mtaurel" style="width:300px;height:250px;">
+<img src="/assets/img/mtau.png" alt="mtaurel" style="width:500px;height:416px;">
 
 Intermediate mass black holes (IMBHs) are thought to be the 'seeds' of supermassive black holes (like the ones I'm currently studying at Texas A&M!), but they have been extremely challenging to find. State-of-the-art astronomical surveys have finally started to discover some candidates, but we still lack an efficient and robust method to estimate their masses down to the lowest mass scales possible. 
 
 ![liu100](/assets/img/liu100.png)
 
-The Galaxy and Black Hole Astrophysics Group at Illinois have been developing a new black hole mass weighing method which makes use of an active galactic nuclei's (AGN) optical variability timescale. In summary, the timescale on which the AGN's accretion disk 'flickers' is correlated with the mass of the black hole. 
+The Galaxy and Black Hole Astrophysics Group at Illinois have been developing a new black hole mass weighing method which makes use of an active galactic nuclei's (AGN) optical variability timescale. In summary, the timescale on which the AGN's accretion disk 'flickers' is correlated with the mass of the black hole. IMBHs are expected to have variability timescales in the tens of hours: an observational signature that wide-field time-domain imaging surveys like the future Vera C. Rubin Observatory can detect. 
+
+giving these elusive objects an observational . I worked with Ph.D. student Colin Burke to test this correlation 
 
 Intermediate Mass Black Holes (IMBHs) are thought to be the 'seeds' of supermassive black holes such as the one
 							found at the center of our own Milky Way galaxy, but they have been extremely challenging to find. State-of-the-art
