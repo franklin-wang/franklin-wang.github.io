@@ -12,12 +12,14 @@ I have listed important research links (including my ORCID, Google Scholar, and 
 
 I'm currently advised by Professor Jonelle Walsh at Texas A&M. My research focuses on the supermassive black holes at the centers of galaxies: using observational data, I am working to understand how these black holes evolve and grow.
 
-### Stellar dynamical modeling of supermassive black holes
+### + Stellar dynamical modeling of supermassive black holes
 *Institution*: Texas A&M University | *Advisor*: Prof. [Jonelle Walsh](https://jonellewalsh.weebly.com/)
 
 ![kinem](/assets/img/pgc12557_moment_4_full_kinem_map.png)
 
-blah blah blah
+A vast majority of (if not all!) galaxies are thought to harbor a supermassive black hole (SMBH) at their centers. These SMBHs are believed to strongly influence the intrinsic nature of their hosts
+
+https://www.annualreviews.org/doi/10.1146/annurev-astro-082708-101811
 
 # undergraduate research
 
