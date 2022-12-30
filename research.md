@@ -39,7 +39,7 @@ The Galaxy and Black Hole Astrophysics Group at Illinois have been developing a 
 I worked with Ph.D. student [Colin Burke](https://burke86.github.io/) to test this mass-timescale relation. I obtained optical variability timescales of broad-line dwarf AGN from **Zwicky Transient Facility** *g*-band light curves, and compared them to their corresponding virial mass estimates. We found that these timescales were generally consistent with the mass-timescale relation of [Burke et al. (2021)](https://www.science.org/doi/10.1126/science.abg9933). Our results and more information can be found in [Wang et al. (2022)](https://arxiv.org/abs/2212.02321) *(in review)*.
 
 
-### + Eccentricity in time-domain gravitational waves
+### + Eccentricity and lensing of gravitational waves
 *Institution*: The Chinese University of Hong Kong | *Advisor*: Prof. [Tjonnie Li](http://www.phy.cuhk.edu.hk/~tgfli/)
 
 <img src="/assets/img/gw.png" alt="gws" style="width:500px;">
