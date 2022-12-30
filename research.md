@@ -32,11 +32,11 @@ As such, I am working with the **Gemini Large and Long Program (LLP)** to addres
 
 Intermediate mass black holes (IMBHs) are thought to be the 'seeds' of supermassive black holes (like the ones I'm currently studying at Texas A&M!), but they have been extremely challenging to find. State-of-the-art astronomical surveys have finally started to discover some candidates, but we still lack an efficient and robust method to estimate their masses down to the lowest mass scales possible. 
 
-The Galaxy and Black Hole Astrophysics Group at Illinois have been developing a new black hole mass weighing method which makes use of an active galactic nuclei's (AGN) optical variability timescale. In summary, the timescale on which the AGN's accretion disk 'flickers' is correlated with the mass of the black hole. IMBHs are expected to have variability timescales in the tens of hours: an observational signature that wide-field time-domain imaging surveys like the future Vera C. Rubin Observatory can detect. 
+The Galaxy and Black Hole Astrophysics Group at Illinois have been developing a new black hole mass weighing method which makes use of an active galactic nuclei's (AGN) optical variability timescale. In summary, the timescale on which the AGN's accretion disk 'flickers' is correlated with the mass of the black hole. IMBHs are expected to have variability timescales in the tens of hours: an observational signature detectably by wide-field time-domain imaging surveys like the future Vera C. Rubin Observatory.
 
 ![liu100](/assets/img/liu100.png)
 
-I worked with Ph.D. student [Colin Burke](https://burke86.github.io/) to test this mass-timescale relation. I obtained optical variability timescales of broad-line dwarf AGN from **Zwicky Transient Facility** *g*-band light curves, and found that they were generally consistent with the mass-timescale relation of [Burke et al. (2021)](https://www.science.org/doi/10.1126/science.abg9933). Our results and more information can be found in [Wang et al. (2022)](https://arxiv.org/abs/2212.02321) *(in review)*.
+I worked with Ph.D. student [Colin Burke](https://burke86.github.io/) to test this mass-timescale relation. I obtained optical variability timescales of broad-line dwarf AGN from **Zwicky Transient Facility** *g*-band light curves, and compared them to their corresponding virial mass estimates. We found that these timescales were generally consistent with the mass-timescale relation of [Burke et al. (2021)](https://www.science.org/doi/10.1126/science.abg9933). Our results and more information can be found in [Wang et al. (2022)](https://arxiv.org/abs/2212.02321) *(in review)*.
 
 
 ### + Eccentricity in time-domain gravitational waves
