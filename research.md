@@ -44,4 +44,4 @@ I worked with Ph.D. student [Colin Burke](https://burke86.github.io/) to test th
 
 <img src="/assets/img/gw.png" alt="gws" style="width:500px;">
 
-
+A prime source of gravitational waves are binary black hole mergers: as two stellar mass black holes coalesce, they produce ripples in space time that can be detected by the Laser Interferometer Gravitational-Wave Observatory (LIGO). 
