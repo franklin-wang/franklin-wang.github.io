@@ -42,4 +42,6 @@ I worked with Ph.D. student [Colin Burke](https://burke86.github.io/) to test th
 ### + Eccentricity in time-domain gravitational waves
 *Institution*: The Chinese University of Hong Kong | *Advisor*: Prof. [Tjonnie Li](http://www.phy.cuhk.edu.hk/~tgfli/)
 
-blah blah blah
+<img src="/assets/img/gw.png" alt="gws" style="width:500px;height:416px;">
+
+
