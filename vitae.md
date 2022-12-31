@@ -9,4 +9,4 @@ My full C.V can be found here.
 
 ### + education
 
-<p><span class="image left"><img src="assets/img/blocki_75.png" alt="" /></span> <b>University of Illinois at Urbana-Champaign</b>
+<img src="assets/img/blocki_75.png" align="right" /><p>University of Illinois at Urbana-Champaign.</p>
