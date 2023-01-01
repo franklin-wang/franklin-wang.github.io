@@ -11,4 +11,6 @@ My full C.V can be found here.
 
 <img src="assets/img/blocki_75.png" align="right" style="width:35px;"/> 
 
-#### University of Illinois at Urbana-Champaign
+**University of Illinois at Urbana-Champaign** | B.S Astronomy, 2018 - 2022
+
+
