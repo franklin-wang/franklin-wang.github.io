@@ -32,7 +32,8 @@ My full C.V can be found here. A summarized version can be found on this page.
 
 | Honor/Award | | Granting Institution | | Year(s) |
 | :--- | :---: | :---: | :---: | :---: |
+| James Scholar Honors Program | | University of Illinois at Urbana-Champaign | | 2019 - 2021 |
 | Nancy Chong Whitman Scholarship | | University of Illinois at Urbana-Champaign | | 2019 |
 | Certificate of Leadership in Environmental Stewardship & Energy Conservation | | University of Illinois at Urbana-Champaign | | 2019 |
 | Phi Eta Sigma National Honors Society | | University of Illinois at Urbana-Champaign | | 2019 |
-| James Scholar Honors Program | | University of Illinois at Urbana-Champaign | | 2019 - 2021 |
+
