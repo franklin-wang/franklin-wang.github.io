@@ -39,14 +39,10 @@ My full C.V can be found here. A summarized version can be found on this page.
 | Phi Eta Sigma National Honors Society || University of Illinois at Urbana-Champaign || 2019 |
 
 ## service & outreach
-||| Institution/Group | | Role | | Dates |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![aot](/assets/img/aot_40.jpg) || James Scholar Honors Program || University of Illinois at Urbana-Champaign || 2019 - 2021 |
-| ![aot](/assets/img/aot_40.jpg) || Nancy Chong Whitman Scholarship || University of Illinois at Urbana-Champaign || 2019 |
-| ![aot](/assets/img/aot_40.jpg) || Phi Eta Sigma National Honors Society || University of Illinois at Urbana-Champaign || 2019 |
 
 | | | Institution/Group | | Role | | Dates |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![aot](/assets/img/aot_40.jpg) || Bryan/College Station Astronomy on Tap || Speaker || 2022 |
+| ![aot](/assets/img/bvac_40.jpg) || Brazos Valley Astronomy Club || Guest Speaker || 2023 |
 | ![uiuc](/assets/img/blocki_40.png) || University of Illinois at Urbana-Champaign, Black Hole Astrophysics Group || High School Research Mentor || 2021 - 2022 |
 
