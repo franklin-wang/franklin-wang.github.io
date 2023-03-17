@@ -36,7 +36,7 @@ The Galaxy and Black Hole Astrophysics Group at Illinois have been developing a 
 
 ![liu100](/assets/img/liu100.png)
 
-I worked with Ph.D. student [Colin Burke](https://burke86.github.io/) and Prof. [Xin Liu](https://publish.illinois.edu/liu-group/) to test this mass-timescale relation. I obtained optical variability timescales of broad-line dwarf AGN from **Zwicky Transient Facility** *g*-band light curves, and compared them to their corresponding virial mass estimates. We found that these timescales were generally consistent with the mass-timescale relation of [Burke et al. (2021)](https://www.science.org/doi/10.1126/science.abg9933). Our results and more information can be found in [Wang et al. (2022)](https://arxiv.org/abs/2212.02321) *(in review)*.
+I worked with Ph.D. student [Colin Burke](https://burke86.github.io/) and Prof. [Xin Liu](https://publish.illinois.edu/liu-group/) to test this mass-timescale relation. I obtained optical variability timescales of broad-line dwarf AGN from **Zwicky Transient Facility** *g*-band light curves, and compared them to their corresponding virial mass estimates. We found that these timescales were generally consistent with the mass-timescale relation of [Burke et al. (2021)](https://www.science.org/doi/10.1126/science.abg9933). Our results and more information can be found in [Wang et al. (2023)](https://academic.oup.com/mnras/article-abstract/521/1/99/7043476).
 
 
 ### + Eccentricity and lensing of gravitational waves
