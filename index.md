@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: home
 ---
 
 <p style="text-align: center;"> <font size="8"> <strong>howdy!</strong> </font></p>
