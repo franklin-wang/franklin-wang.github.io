@@ -40,5 +40,6 @@ My full C.V can be found here. A summarized version can be found on this page.
 
 ## service & outreach
 | | | Institution/Group | | Role | | Dates |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![uiuc](/assets/img/blocki_40.png) || University of Illinois at Urbana-Champaign, Black Hole Astrophysics Group || High School Research Mentor || 2021 - 2022 |
 
