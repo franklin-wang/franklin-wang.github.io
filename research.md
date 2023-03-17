@@ -32,7 +32,7 @@ As such, I am working with the **Gemini Large and Long Program (LLP)** to addres
 
 Intermediate mass black holes (IMBHs) are thought to be the 'seeds' of supermassive black holes (like the ones I'm currently studying at Texas A&M!), but they have been extremely challenging to find. State-of-the-art astronomical surveys have finally started to discover some candidates, but we still lack an efficient and robust method to estimate their masses down to the lowest mass scales possible. 
 
-The Galaxy and Black Hole Astrophysics Group at Illinois have been developing a new black hole mass weighing method which makes use of an active galactic nuclei's (AGN) optical variability timescale. In summary, the timescale on which the AGN's accretion disk 'flickers' is correlated with the mass of the black hole. Accreting IMBHs are expected to have variability timescales in the tens of hours: an observational signature detectably by wide-field time-domain imaging surveys like the future Vera C. Rubin Observatory.
+The Galaxy and Black Hole Astrophysics Group at Illinois have been developing a new black hole mass weighing method which makes use of an active galactic nuclei's (AGN) optical variability timescale. In summary, the timescale on which the AGN's accretion disk 'flickers' is correlated with the mass of the black hole. Accreting IMBHs are expected to have variability timescales in the tens of hours: an observational signature detectable by wide-field time-domain imaging surveys like the future Vera C. Rubin Observatory.
 
 ![liu100](/assets/img/liu100.png)
 
