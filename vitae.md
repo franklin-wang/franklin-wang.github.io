@@ -31,10 +31,14 @@ My full C.V can be found here. A summarized version can be found on this page.
 
 ## + honors & awards
 
-| Honor/Award | | Granting Institution | | Year(s) |
+| Honor/Award | | Granting Institution | | Dates |
 | :--- | :---: | :---: | :---: | :---: |
 | James Scholar Honors Program || University of Illinois at Urbana-Champaign || 2019 - 2021 |
 | Nancy Chong Whitman Scholarship || University of Illinois at Urbana-Champaign || 2019 |
 | Certificate of Leadership in Environmental Stewardship & Energy Conservation || University of Illinois at Urbana-Champaign | | 2019 |
 | Phi Eta Sigma National Honors Society || University of Illinois at Urbana-Champaign || 2019 |
+
+## service & outreach
+| | | | Institution/Group | | Role | | Dates |
+| ![uiuc](/assets/img/blocki_40.png) || University of Illinois at Urbana-Champaign, Black Hole Astrophysics Group || High School Research Mentor || 2021 - 2022 |
 
