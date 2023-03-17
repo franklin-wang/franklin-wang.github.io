@@ -38,7 +38,7 @@ My full C.V can be found here. A summarized version can be found on this page.
 | Certificate of Leadership in Environmental Stewardship & Energy Conservation || University of Illinois at Urbana-Champaign | | 2019 |
 | Phi Eta Sigma National Honors Society || University of Illinois at Urbana-Champaign || 2019 |
 
-## service & outreach
+## + service & outreach
 
 | | | Institution/Group | | Role | | Dates |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
