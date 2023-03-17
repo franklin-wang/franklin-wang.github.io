@@ -16,7 +16,7 @@ My full C.V can be found here. A summarized version can be found on this page.
 
 ## + positions held
 
-| | | Title | Institution | Advisor | Dates |
-| :---: | :---: | :-----: | :----: | :---: | :---: |
-| ![tamu](/assets/img/blocki_40.png) || Undergraduate Research Assistant | University of Illinois at Urbana-Champaign  | Prof. Xin Liu  | Dec. 2020 - Feb. 2023 |
-| ![tamu](/assets/img/cuhk_40.png) || Summer Research Assistant | Chinese University of Hong Kong  | Prof. Tjonnie Li  | May 2019 - Jan. 2020 |
+| | | Title | Institution | Advisor | | Dates |
+| :---: | :---: | :-----: | :----: | :---: | :---: | :---: |
+| ![tamu](/assets/img/blocki_40.png) || Undergraduate Research Assistant | University of Illinois at Urbana-Champaign  | Prof. Xin Liu  | | Dec. 2020 - Feb. 2023 |
+| ![tamu](/assets/img/cuhk_40.png) || Summer Research Assistant | Chinese University of Hong Kong  | Prof. Tjonnie Li  | | May 2019 - Jan. 2020 |
