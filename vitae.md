@@ -25,4 +25,4 @@ My full C.V can be found here. A summarized version can be found on this page.
 
 | Title | | | Journal | arXiv |
 | :--- | :---: | :---: | :---: | :----: |
-| DAVOS: First Author | Wang et al. 2023 | | MNRAS | arxiv identifier | 
+| DAVOS: First Author | | Wang et al. 2023 | MNRAS | arxiv identifier | 
