@@ -23,6 +23,6 @@ My full C.V can be found here. A summarized version can be found on this page.
 
 ## + publications
 
-| Title | | | | Journal | arXiv |
+| Title | | | | Journal | arXiv Identifier |
 | :--- | :---: | :---: | :---: | :---: | :----: |
-| DAVOS: First Author | | *Wang et al. 2023* | | MNRAS | arxiv identifier | 
+| DAVOS: Optical Variability of Broad-line Dwarf AGNs from the Zwicky Transient Facility | | *Wang et al. 2023* | | [MNRAS](https://academic.oup.com/mnras/article-abstract/521/1/99/7043476) | [2212.02321](https://arxiv.org/abs/2212.02321) | 
