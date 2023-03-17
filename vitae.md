@@ -27,3 +27,12 @@ My full C.V can be found here. A summarized version can be found on this page.
 | :--- | :---: | :---: | :---: | :---: | :----: |
 | DAVOS: Optical variability of broad-line dwarf AGNs from the Zwicky Transient Facility | | *Wang et al. 2023* | | [MNRAS](https://academic.oup.com/mnras/article-abstract/521/1/99/7043476) | [2212.02321](https://arxiv.org/abs/2212.02321) |
 | DAVOS: Intermediate-mass black hole demographics from  optical synoptic surveys| | *Burke et al. 2023* | | [MNRAS](https://academic.oup.com/mnras/article-abstract/518/2/1880/6712807) | [2207.04092](https://arxiv.org/abs/2207.04092) | 
+
+## + honors & awards
+
+| Honor/Award | | Granting Institution | | Year(s) |
+| :--- | :---: | :---: | :---: | :---: |
+| Nancy Chong Whitman Scholarship | | University of Illinois at Urbana-Champaign | | 2019 |
+| Certificate of Leadership in Environmental Stewardship & Energy Conservation | | University of Illinois at Urbana-Champaign | | 2019 |
+| Phi Eta Sigma National Honors Society | | University of Illinois at Urbana-Champaign | | 2019 |
+| James Scholar Honors Program | | University of Illinois at Urbana-Champaign | | 2019 - 2021 |
