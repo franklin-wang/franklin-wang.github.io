@@ -9,14 +9,14 @@ My full C.V can be found here. A summarized version can be found on this page.
 
 ## + education
 
-| | | Degree | Institution | Advisor | Dates |
+| | | Degree | Institution | Advisor(s) | Dates |
 | :---: | :---: | :-----: | :----: | :---: | :---: |
 | ![tamu](/assets/img/tamu_40.png) || Ph.D. Astronomy | Texas A&M University  | Prof. Jonelle Walsh  | Aug. 2022 - Present |
 | ![uiuc](/assets/img/blocki_40.png) || B.S.&nbsp; Astronomy&nbsp; | University of Illinois at Urbana-Champaign  | Prof. Xin Liu  | Aug. 2018 - May 2022 |
 
 ## + positions held
 
-| | | Title | Institution | Advisor | | Dates |
+| | | Title | Institution | Advisor(s) | | Dates |
 | :---: | :---: | :-----: | :----: | :---: | :---: | :---: |
 | ![tamu](/assets/img/tamu_40.png) || Teaching Assistant | Texas A&M University  | Dept. of Physics & Astronomy  | | Aug. 2022 - Present |
 | ![tamu](/assets/img/blocki_40.png) || Undergraduate Research Assistant | University of Illinois at Urbana-Champaign  | Prof. Xin Liu  | | Dec. 2020 - Feb. 2023 |
