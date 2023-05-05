@@ -28,21 +28,3 @@ My full C.V can be found <a href="https://franklin-wang.github.io/assets/zfwang_
 | :--- | :---: | :---: | :---: | :---: | :----: |
 | DAVOS: Optical variability of broad-line dwarf AGNs from the Zwicky Transient Facility || *Wang et al. 2023* || [MNRAS](https://academic.oup.com/mnras/article-abstract/521/1/99/7043476) | [2212.02321](https://arxiv.org/abs/2212.02321) |
 | DAVOS: Intermediate-mass black hole demographics from  optical synoptic surveys|| *Burke et al. 2023* || [MNRAS](https://academic.oup.com/mnras/article-abstract/518/2/1880/6712807) | [2207.04092](https://arxiv.org/abs/2207.04092) | 
-
-## + honors & awards
-
-| Honor/Award | | Granting Institution | | Dates |
-| :--- | :---: | :---: | :---: | :---: |
-| James Scholar Honors Program || University of Illinois at Urbana-Champaign || 2019 - 2021 |
-| Nancy Chong Whitman Scholarship || University of Illinois at Urbana-Champaign || 2019 |
-| Certificate of Leadership in Environmental Stewardship & Energy Conservation || University of Illinois at Urbana-Champaign | | 2019 |
-| Phi Eta Sigma National Honors Society || University of Illinois at Urbana-Champaign || 2019 |
-
-## + service & outreach
-
-| | | Institution/Group | | Role | | Dates |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![aot](/assets/img/aot_40.jpg) || Bryan/College Station Astronomy on Tap || Speaker || 2022 - Present |
-| ![aot](/assets/img/bvac_40.jpg) || Brazos Valley Astronomy Club || Guest Speaker || 2023 |
-| ![uiuc](/assets/img/blocki_40.png) || University of Illinois at Urbana-Champaign, Black Hole Astrophysics Group || High School Research Mentor || 2021 - 2022 |
-
