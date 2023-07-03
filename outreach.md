@@ -5,6 +5,7 @@ title: outreach
 
 # outreach
 ### + Astronomy on Tap
+![aotpresent](/assets/img/aot_present.png)
 [Astronomy on Tap](https://astronomyontap.org/locations/bcs-tx/) (AoT) is a (free!) monthly event featuring presentations on hot topics in astronomy. I am currently working as the main coordinator for the Bryan-College Station chapter of AoT. My responsibilities include recruiting monthly speakers, coordinating with our local venue, and occassionally giving a talk about black holes, planets, or aliens!
 
 ### + Gateway to Graduate School
