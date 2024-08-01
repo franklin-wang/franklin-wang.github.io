@@ -5,7 +5,7 @@ title: vitae
 
 # curriculum vitae
 
-My full C.V can be found <a href="https://franklin-wang.github.io/assets/zfwang_cv.pdf" target="_blank">here</a>. A summarized version can be found on this page. 
+My full C.V can be found <p style="color:blue;"><a href="https://franklin-wang.github.io/assets/zfwang_cv.pdf" target="_blank">here</a></p>. A summarized version can be found on this page. 
 
 ## + education
 
