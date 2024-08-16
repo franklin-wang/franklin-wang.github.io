@@ -21,7 +21,7 @@ A vast majority of (if not all!) galaxies are thought to harbor a supermassive b
 
 ![kinem](/assets/img/pgc12557_moment_4_full_kinem_map.png)
 
-As such, I am working with the **Gemini Large and Long Program (LLP)** to address this bias. This program targets galaxies with sizes and luminosities that are not well represented in the current sample with integral field spectrographs (IFS or IFU) from Gemini NIFS and multiple instruments at the McDonald Observatory. In particular, I will be extracting stellar kinematics (that will be used in dynamical mass modelling) from data obtained by the **VIRUS-P** and **VIRUS-W** spectrographs on the 2.7m Harlan J. Smith telescope. These IFUs capture our target galaxies on larger scales, allowing us to better constrain their surrounding dark matter halos.  
+As such, I am working with the **Gemini Large and Long Program (LLP)** to address this bias. This program targets galaxies with sizes and luminosities that are not well represented in the current sample with integral field spectrographs (IFS or IFU) from Gemini NIFS and multiple instruments at the McDonald Observatory. I'm currently focusing on **PGC 12557, a compact galaxy** discovered in the [Hobby Eberly Telescope Massive Galaxy Survey](https://ui.adsabs.harvard.edu/abs/2015ApJS..218...10V/abstract). Compact galaxies interestingly follow redshift ~ 2 size-mass scaling relations better than local relations, and thus serve as local analogs of higher-redshift quiescent galaxies. Previous studies have found that some compact galaxies host overmassive SMBHs, perhaps suggesting that black hole growth preceeds galaxy growth.
 
 # undergraduate research
 
