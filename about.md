@@ -4,7 +4,7 @@ title: about
 ---
 
 # bio
-![football](/assets/img/banff.jpg)
+![banffntlprk](/assets/img/banff2.jpg)
 
 A few things about my name: I typically go by my English middle name (you can call me Frank or Franklin), and this is the name I publish under. However, my Chinese name is Wang Zhilong (王稚龙, pronounced wong-juh-long). My emails will be addressed from 'Zhilong Wang', and I am more than happy to be called by my Chinese name too!
 
