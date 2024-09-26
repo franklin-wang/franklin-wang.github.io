@@ -14,4 +14,4 @@ My first couple of years in the U.S was spent in Champaign, Illinois: I obtained
 
 Since moving to College Station, I've re-focused my hobbies to be centered around astronomy-related outreach programs. I am currently the primary organizer for our local [Astronomy on Tap](https://astronomyontap.org/locations/bcs-tx/) and the Texas A&M [Gateway to Graduate School](https://gradgateway.physics.tamu.edu/) program. In addition to organizing, I enjoy giving public talks: I've presented at Astronomy on Tap and for the [Brazos Valley Astronomy Club](https://www.brazosvalleyastronomyclub.org/). 
 
-Asides from astronomy, I enjoy skateboarding, hiking, fishing, Illini Athletics, the Chicago Bears, and the St. Louis Cardinals.  
+Asides from astronomy, I enjoy skateboarding, hiking, skiing, Illini Athletics, the Chicago Bears, and the St. Louis Cardinals.  
