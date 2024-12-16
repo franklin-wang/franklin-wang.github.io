@@ -24,7 +24,7 @@ My full C.V can be found <span style="color:blue">[here](https://franklin-wang.g
 
 ## + publications
 
-| Title | | | | Journal | arXiv Identifier | NASA ADS |
+| Title | | | | Journal | arXiv Identifier | ADS |
 | :--- | :---: | :---: | :---: | :---: | :----: | :----: |
 | DAVOS: Optical variability of broad-line dwarf AGNs from the Zwicky Transient Facility || *Wang et al. 2023* || [MNRAS](https://academic.oup.com/mnras/article-abstract/521/1/99/7043476) | [2212.02321](https://arxiv.org/abs/2212.02321) | [Link](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521...99W/abstract) |
 | DAVOS: Intermediate-mass black hole demographics from  optical synoptic surveys|| *Burke et al. 2023* || [MNRAS](https://academic.oup.com/mnras/article-abstract/518/2/1880/6712807) | [2207.04092](https://arxiv.org/abs/2207.04092) | [Link](https://ui.adsabs.harvard.edu/abs/2024AAS...24312105B/abstract) | 
